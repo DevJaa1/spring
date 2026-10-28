@@ -13,5 +13,4 @@ public class atividadeController {
         return List.of("One","Two","Tree");
 
     }
-    //aqui ele retorna um array
 }
