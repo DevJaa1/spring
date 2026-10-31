@@ -9,6 +9,16 @@
             "projectName": "frmkspring",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringauthjwtApplication<springauthjwt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springsecurityx.springauthjwt.SpringauthjwtApplication",
+            "projectName": "springauthjwt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
